@@ -16,14 +16,14 @@ Prerequisites:
 
 <li>v.   Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
 <li>vi.  Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
-      <ul>
+      <ol>
      <li> Type these following commands on the terminal.
           <li> npm install express <li>
           <li> npm install body-parser  <li>
           <li> npm install ejs  <li>
           <li> npm install mongoose  <li>
-      </ul>      </li>
-<li>vii. To run your app on terminal type node app.js   
+      </ol>      </li>
+<li> vii. To run your app on terminal type node app.js   
       ![image](https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png) </li>
       
 <li>ix.  Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000
