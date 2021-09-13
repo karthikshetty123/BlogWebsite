@@ -36,7 +36,7 @@ Prerequisites:
 </ul>               
 <br>         
 <h2> Home Page: </h2>
-<img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png" height="500px" width="500px">
+<img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png" height="500px" width="900px">
 <br>
 <img src="https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png">  
 <br>
