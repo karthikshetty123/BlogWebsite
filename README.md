@@ -34,7 +34,8 @@ Prerequisites:
 </li> <br>
       
 </ul>               
-<br>         
+<br>  
+<h1> Website Pictures </h1>
 <h2> Home Page: </h2>
 <img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png" height="500px" width="700px">
 <br>
