@@ -29,8 +29,8 @@ Prerequisites:
 <li>Install NPM too in your system, for more details on how to install Node Pack Manager (NPM) and NodeJs read the article in the link. https://phoenixnap.com/kb/install-node-js-npm-on-windows </li>
 <li> Once NodeJs and NPM are installed, on your terminal run the two codes
      <ol>
-           <li> $ $nbsp node --version (type the code only after $ sign) </li>
-           <li> $ &nbsp npm  --version </li>
+           <li> $ node --version (type the code only after $ sign) </li>
+           <li> $ npm  --version </li>
       </ol>
  </li>
 <li>Then after you have downloaded the following above folders on your terminal type cd /the path of your project/ <br><br>
@@ -41,10 +41,10 @@ Prerequisites:
 <li>Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
       <ol>
      <li> Type these following commands on the terminal.
-          <li> $ $nbsp npm install express </li>
-          <li> $ $nbsp npm install body-parser  </li>
-          <li> $ $nbsp npm install ejs  </li>
-          <li> $ $nbsp npm install mongoose  </li>
+          <li> $ npm install express </li>
+          <li> $ npm install body-parser  </li>
+          <li> $ npm install ejs  </li>
+          <li> $ npm install mongoose  </li>
       </ol>      
 </li>
 <li>To run your app on terminal type node app.js <br><br>
