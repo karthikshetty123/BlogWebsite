@@ -26,7 +26,7 @@
 Prerequisites:
 <ol>
 <li> Install NodeJs in your System. click on the link to install: https://nodejs.org/en/download/ </li>
-<li>Install NPM too please read the article how to install Node Pack Manager (NPM). https://phoenixnap.com/kb/install-node-js-npm-on-windows </li>
+<li>Install NPM too in your system, for more details on how to install Node Pack Manager (NPM) and NodeJs read the article in the link. https://phoenixnap.com/kb/install-node-js-npm-on-windows </li>
 <li> Once NodeJs and NPM are installed, on your terminal run the two codes
      <ol>
            <li>  node --version </li>
@@ -37,7 +37,7 @@ Prerequisites:
  <img src="https://user-images.githubusercontent.com/69399036/133049723-1d062847-4a49-4c35-be99-bc0787103cd1.png">
 </li> <br>
 
-<li>Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
+<li>Install MongoDB into your system, click on the Link to download: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
 <li>Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
       <ol>
      <li> Type these following commands on the terminal.
