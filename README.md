@@ -1,5 +1,16 @@
 # BlogWebsite
-Simple blog website using NodeJs and MongoDB where we can add blogs. and MongoDB is used for storing Data.
+<h3> Simple blog website using NodeJs and MongoDB where we can add blogs. and MongoDB is used for storing Data.</h3>
+
+<h2>Technologies Used:</h2>
+<ul>
+     <li>NodeJs</li>
+     <li>MongoDB</li>
+     <li> Html Css and Bootstrap </li>
+     <li>Mongoose </li>
+</ul>  
+<img src ="https://user-images.githubusercontent.com/69399036/133058257-01517df6-661e-4151-999d-e965bbc4268a.png">
+
+     
 
 Prerequisites:
 <ul>
