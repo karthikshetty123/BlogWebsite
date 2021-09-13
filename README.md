@@ -50,10 +50,13 @@ Prerequisites:
 <li>To run your app on terminal type node app.js <br><br>
      <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png">
 </li><br>
-      
-     <li>Go to  your favorite browser and type,http://localhost:3000/ or just localhost:3000<br><br>
+ <li> Go to  your favorite browser and type, localhost:3000 or type http://localhost:3000 <br><br>
+       <img src ="https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png">
+ </li>     
+<!--      <li>Go to  your favorite browser and type,http://localhost:3000/ or just localhost:3000<br><br>
      <img src ="https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png">
-</li> <br>
+</li> <br> -->
+     
       
 </ol>               
 <br>  
