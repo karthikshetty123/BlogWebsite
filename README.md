@@ -8,8 +8,8 @@
      <li> Html Css and Bootstrap </li>
      <li>Mongoose </li>
 </ul>  
-<img src ="https://user-images.githubusercontent.com/69399036/133058257-01517df6-661e-4151-999d-e965bbc4268a.png">
-<img src ="https://user-images.githubusercontent.com/69399036/133058560-b419c24f-b03d-4b05-81de-445dfd7735af.png">
+<img src ="https://user-images.githubusercontent.com/69399036/133058257-01517df6-661e-4151-999d-e965bbc4268a.png"> <img src ="https://user-images.githubusercontent.com/69399036/133058560-b419c24f-b03d-4b05-81de-445dfd7735af.png">
+
 
 
      
