@@ -2,7 +2,7 @@
 Simple blog website using NodeJs and MongoDB where we can add blogs. and MongoDB is used for storing Data.
 
 Home Page:
-![Screenshot 2021-09-12 214854](https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png | width=200)
+![Screenshot 2021-09-12 214854](https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png)
 
 ![Screenshot 2021-09-12 214934](https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png)
 
