@@ -11,9 +11,9 @@ Prerequisites:
            <li>  npm  --version </li>
       </ol>
  </li>
-<li>Then after you have downloaded the following above folders on your terminal type cd /the path of your project/ <br>
+<li>Then after you have downloaded the following above folders on your terminal type cd /the path of your project/ <br><br>
  <img src="https://user-images.githubusercontent.com/69399036/133049723-1d062847-4a49-4c35-be99-bc0787103cd1.png">
-</li>
+</li> <br>
 
 <li>Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
 <li>Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
@@ -25,13 +25,13 @@ Prerequisites:
           <li> npm install mongoose  </li>
       </ol>      
 </li>
-<li>To run your app on terminal type node app.js <br>
+<li>To run your app on terminal type node app.js <br><br>
      <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png">
-</li>
+</li><br>
       
-<li>Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000 <br>
+<li>Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000 <br><br>
      <img src ="https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png">
-</li>
+</li> <br>
       
 </ul>      
       
