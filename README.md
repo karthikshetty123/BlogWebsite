@@ -2,26 +2,30 @@
 Simple blog website using NodeJs and MongoDB where we can add blogs. and MongoDB is used for storing Data.
 
 Prerequisites:
-i.   Install NodeJs in your System. click on the link to install: https://nodejs.org/en/download/
-ii.  Install NPM too please read the article how to install Node Pack Manager (NPM). https://phoenixnap.com/kb/install-node-js-npm-on-windows
-iii. Once NodeJs and NPM are installed, on your terminal run the two codes
+<ul>
+<li> i.   Install NodeJs in your System. click on the link to install: https://nodejs.org/en/download/ </li>
+<li>ii.  Install NPM too please read the article how to install Node Pack Manager (NPM). https://phoenixnap.com/kb/install-node-js-npm-on-windows </li>
+<li>iii. Once NodeJs and NPM are installed, on your terminal run the two codes
       i.  node --version
-      ii. npm  --version
-iv. Then after you have downloaded the following above folders on your terminal type cd /the path of your project/
- ![Screenshot 2021-09-13 135426](https://user-images.githubusercontent.com/69399036/133049723-1d062847-  4a49-4c35-be99-bc0787103cd1.png)
+      ii. npm  --version </li>
+<li>iv. Then after you have downloaded the following above folders on your terminal type cd /the path of your project/ 
+ ![Screenshot 2021-09-13 135426](https://user-images.githubusercontent.com/69399036/133049723-1d062847-  4a49-4c35-be99-bc0787103cd1.png) </li>
 
-v.   Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).
-vi.  Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
+<li>v.   Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
+<li>vi.  Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
       > Type these following commands on the terminal.
           1. npm install express
           2. npm install body-parser
           3. npm install ejs
-          4. npm install mongoose
-vii. To run your app on terminal type node app.js   
-      ![image](https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png)
+          4. npm install mongoose </li>
+<li>vii. To run your app on terminal type node app.js   
+      ![image](https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png) </li>
       
-ix.  Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000
-     ![image](https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png)
+<li>ix.  Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000
+     ![image](https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png) </li>
+      
+</ul>      
+      
 
      
       
