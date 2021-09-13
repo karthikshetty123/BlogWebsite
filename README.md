@@ -24,7 +24,7 @@
      
 
 Prerequisites:
-<ul>
+<ol>
 <li> Install NodeJs in your System. click on the link to install: https://nodejs.org/en/download/ </li>
 <li>Install NPM too please read the article how to install Node Pack Manager (NPM). https://phoenixnap.com/kb/install-node-js-npm-on-windows </li>
 <li> Once NodeJs and NPM are installed, on your terminal run the two codes
@@ -55,7 +55,7 @@ Prerequisites:
      <img src ="https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png">
 </li> <br>
       
-</ul>               
+</ol>               
 <br>  
 <h1 align="center"> Website Pictures </h1>
 <h2> Home Page: </h2>
