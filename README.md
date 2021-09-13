@@ -12,7 +12,7 @@ Prerequisites:
       </ol>
  </li>
 <li>Then after you have downloaded the following above folders on your terminal type cd /the path of your project/ <br>
- <img src="https://user-images.githubusercontent.com/69399036/133049723-1d062847-  4a49-4c35-be99-bc0787103cd1.png">
+ <img src="https://user-images.githubusercontent.com/69399036/133049723-1d062847-4a49-4c35-be99-bc0787103cd1.png">
 </li>
 
 <li>Install MongoDB into your system, Link: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
