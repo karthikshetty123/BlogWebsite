@@ -38,20 +38,20 @@ Prerequisites:
 <h2> Home Page: </h2>
 <img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png" height="500px" width="700px">
 <br>
-<img src="https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png">  
+<img src="https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png" height="500px" width="700px">  
 <br>
 <h2> About Page: </h2>
-<img src="https://user-images.githubusercontent.com/69399036/133046153-846da514-c1c6-4c42-8291-199ab1527c20.png">
+<img src="https://user-images.githubusercontent.com/69399036/133046153-846da514-c1c6-4c42-8291-199ab1527c20.png" height="500px" width="700px">
 <br>
 <h2> Contact Page: </h2>
-<img src ="https://user-images.githubusercontent.com/69399036/133046234-d7b15c38-2b62-4c17-9dd8-ab378fad92df.png">
+<img src ="https://user-images.githubusercontent.com/69399036/133046234-d7b15c38-2b62-4c17-9dd8-ab378fad92df.png" height="500px" width="700px">
 <br>
 <h2> Compose page: </h2>
-<img src="https://user-images.githubusercontent.com/69399036/133046270-f95ad4b9-aa36-49a6-98c4-f6721cb8e7f7.png">
+<img src="https://user-images.githubusercontent.com/69399036/133046270-f95ad4b9-aa36-49a6-98c4-f6721cb8e7f7.png" height="500px" width="700px">
 <br>
-<img src="https://user-images.githubusercontent.com/69399036/133046299-33124752-1ddd-4f08-9c7d-80f24e71c5af.png">
+<img src="https://user-images.githubusercontent.com/69399036/133046299-33124752-1ddd-4f08-9c7d-80f24e71c5af.png" height="500px" width="700px">
 <br>
-<img src="https://user-images.githubusercontent.com/69399036/133046332-dbd1a443-74e1-40a2-b7fb-242986c0fcbc.png">
+<img src="https://user-images.githubusercontent.com/69399036/133046332-dbd1a443-74e1-40a2-b7fb-242986c0fcbc.png" height="500px" width="700px">
 
 
 
