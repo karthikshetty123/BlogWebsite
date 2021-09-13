@@ -26,23 +26,15 @@ Prerequisites:
       </ol>      
 </li>
 <li>To run your app on terminal type node app.js <br><br>
-     <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png">
+     <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png" style="height: 30%">
 </li><br>
       
 <li>Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000 <br><br>
      <img src ="https://user-images.githubusercontent.com/69399036/133051745-7ddccff3-576b-4b24-a42e-6adab6f09a40.png">
 </li> <br>
       
-</ul>      
-      
-
-     
-      
-      
-      
-
-          
-<img src="https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png">          
+</ul>               
+<br>         
 <h2> Home Page: </h2>
 <img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png">
 <br>
