@@ -39,8 +39,9 @@ Prerequisites:
 
 <li>Install MongoDB into your system, click on the Link to download: https://www.mongodb.com/try/download/community . To check if its downloaded type $mongo --version (If you get sometime like v6.01..        you are on the right path go ahead).</li>
 <li>Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
-      <ol>
-     <li> Type these following commands on the terminal.
+ 
+     <p> Type these following commands on the terminal.</p>
+          <ol>
           <li> $ npm install express </li>
           <li> $ npm install body-parser  </li>
           <li> $ npm install ejs  </li>
