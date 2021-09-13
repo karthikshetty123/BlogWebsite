@@ -18,12 +18,13 @@ Prerequisites:
 <li>Then go to your terminal, make sure you are the right path (/downloads/BlogWebsite).
       <ol>
      <li> Type these following commands on the terminal.
-          <li> npm install express <li>
-          <li> npm install body-parser  <li>
-          <li> npm install ejs  <li>
-          <li> npm install mongoose  <li>
-      </ol>      </li>
-<li>To run your app on terminal type node app.js
+          <li> npm install express </li>
+          <li> npm install body-parser  </li>
+          <li> npm install ejs  </li>
+          <li> npm install mongoose  </li>
+      </ol>      
+</li>
+<li>To run your app on terminal type node app.js <br>
      <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png">
 </li>
       
