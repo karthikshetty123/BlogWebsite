@@ -26,7 +26,7 @@ Prerequisites:
       </ol>      
 </li>
 <li>To run your app on terminal type node app.js <br><br>
-     <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png" height="200px">
+     <img src="https://user-images.githubusercontent.com/69399036/133051291-389e4c97-d032-4f9c-8782-7475740fc3dc.png">
 </li><br>
       
 <li>Go to  your favorite browser and type, http://localhost:3000/ or just localhost:3000 <br><br>
@@ -36,7 +36,7 @@ Prerequisites:
 </ul>               
 <br>         
 <h2> Home Page: </h2>
-<img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png">
+<img src="https://user-images.githubusercontent.com/69399036/133045898-1fa1dc24-ccf5-463b-80d4-82f6737d2a01.png" height="200px">
 <br>
 <img src="https://user-images.githubusercontent.com/69399036/133046121-cd231a93-8741-410a-9716-a37e470a00e1.png">  
 <br>
